@@ -1,5 +1,7 @@
 # 倪师《天纪》紫微斗数 · 160 万帧逐帧精读
 
+> **本仓库已于 2026-11-13 连同全部提交历史并入 [ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) 的 [`research/nishi-video-reading/`](https://github.com/Renhuai123/ziwei-doushu/tree/main/research/nishi-video-reading)。后续更新都在那里，本仓库归档只读。**
+
 用多家大模型，把倪海厦老师《天纪》紫微斗数 17 集讲课视频**一帧不漏**地读一遍（1,604,675 帧），把他讲的方法、板书、命盘、「这里 / 这个」指的是哪，整理成可追溯到帧号的康奈尔笔记。
 
 这个仓库公开的是**方法和全过程**：方案、每一步怎么处理信息、全部脚本、提示词、考试设计、成绩、失败的尝试和踩过的坑。**正在进行中**，边做边更新。
